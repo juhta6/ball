@@ -64,9 +64,8 @@ new tabris.TextView({
 }).appendTo(page)
 
 new tabris.Button({
-  layoutData: {bottom: 10, centerX: 0, width: 100},
-  highlightOnTouch: "true",
-  text: "reload"
+  layoutData: {centerX: 0, bottom: 32},
+  text: "Reload"
 }).on("select", function() {
   tabris.app.reload();
 }).appendTo(comp);
