@@ -69,7 +69,7 @@ new tabris.Button({
   text: "reload"
 }).on("select", function() {
   tabris.app.reload();
-}).appendTo(page);
+}).appendTo(comp);
 
 page.open();
       
