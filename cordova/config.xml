@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="Ball" version="1.0.0">
- 
+<widget
+    id="ball" version="1.0.0">
     <name>Ball</name>
-
-    <access origin="*" />
+    <description>
+       Moi
+    </description>
+    <author email="me@me.com" href="http://www.me.me">
+        Me
+    </author>
 </widget>
