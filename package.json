@@ -1,0 +1,7 @@
+{
+  "name": "Ball",
+  "main": "src/ball.js",
+  "dependencies": {
+    "tabris": "1.7.0"
+  }
+}
