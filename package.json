@@ -1,7 +1,9 @@
 {
-  "name": "Ball",
+  "title": "Ball",
+  "description": "ball",
+  "category": "Small Apps",
   "main": "src/ball.js",
   "dependencies": {
-    "tabris": "1.7.0"
+    "tabris": "^1.7.0"
   }
 }
